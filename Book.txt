@@ -1,0 +1,2 @@
+B23456 | P12345                         | 2.0     |        2 | P12345     | Available      
+B12345 | meomeo                         | 10.0    |        2 | P12345     | Available      
